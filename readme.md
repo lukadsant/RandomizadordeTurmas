@@ -2,7 +2,7 @@
 
 esse algoritmo permite dividir uma lista de alunos para uma certa quantidade de turmas.
 
-**Lista de aluno base:** *(banco.xlsx)*
+**Lista com todos os alunos:** *(banco.xlsx)*
 
 |      | Relação Turma 1 |
 | ---- | ----------------- |
@@ -20,7 +20,7 @@ esse algoritmo permite dividir uma lista de alunos para uma certa quantidade de 
 | 1171 | sanji             |
 
 
-**Regras para a randomização:** (*rulesx.xlsx)*
+**Regras e layout para a randomização:** (*rulesx.xlsx)*
 
 | 4 Turmas  |           |           |           |           |
 | --------- | --------- | --------- | --------- | --------- |
@@ -45,7 +45,12 @@ esse algoritmo permite dividir uma lista de alunos para uma certa quantidade de 
 |           |           |           |           |           |
 
 
-**Lista após as randomizações:**
+
+**arquivos apresentados, é só seguir os passos do algoritimo:**
+![hippo](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c9b50d86-d801-4d4b-9ac4-7a506fdc2948/randomizaoturmas2.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220104%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220104T140315Z&X-Amz-Expires=86400&X-Amz-Signature=7f3064a3dc6f74a6a69ae7fab7e4961637a5e3c66c3c663b4ba6ddb11714d390&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22randomiza%25C3%25A7%25C3%25A3oturmas2.gif%22&x-id=GetObject)
+
+
+**Resultado das randomizações:**
 
 | Matricula | Nome   |  | Modulo 1 |    | Modulo 2 |    | Modulo 3 |    | Modulo 4 |    | Modulo 5 |    |
 | --------- | ------ | - | -------- | -- | -------- | -- | -------- | -- | -------- | -- | -------- | -- |
@@ -62,5 +67,5 @@ esse algoritmo permite dividir uma lista de alunos para uma certa quantidade de 
 | 4171      | luffy  |  | 101      | 31 | 4171     | 21 | 4171     | 11 | 4171     | 31 | 4171     | 31 |
 | 1171      | sanji  |  | 104      | 31 | 1171     | 21 | 1171     | 11 | 1171     | 31 | 1171     | 31 |
 
-
-`![tutorial em gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)`
+**E acabou 😁**
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
